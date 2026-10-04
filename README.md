@@ -89,14 +89,14 @@ Full-Stack Development
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Journey
 
 <div align="center">
 
-## 📈 GitHub Journey
-
 I’m continuously building projects, experimenting with new technologies,
 and improving my development skills one commit at a time.
+
+</div>
 
 <div align="center">
 
