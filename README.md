@@ -93,9 +93,14 @@ Full-Stack Development
 
 <div align="center">
 
-![Lakshya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshaybatham1122-sketch&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+## 📈 GitHub Journey
 
+I’m continuously building projects, experimenting with new technologies,
+and improving my development skills one commit at a time.
 
+<div align="center">
+
+💻 Building Projects • 📚 Learning • 🚀 Growing
 
 </div>
 
