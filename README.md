@@ -93,7 +93,7 @@ Full-Stack Development
 
 <div align="center">
 
-![Lakshya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshyabatham1122-sketch&show_icons=true&theme=tokyonight&hide_border=true)
+![Lakshya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshaybatham1122-sketch&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lakshyabatham1122-sketch&theme=tokyonight&hide_border=true)
 
